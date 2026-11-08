@@ -1,6 +1,6 @@
 # INFO 5100 — Assignment 9: Pricing Model, Part 2
 
-**Student:** Shai Rashada-Parasram  
+Shai Rashada-Parasram  
 **Project:** `RangePricingApplication` (original professor's NetBeans/Ant skeleton, extended)
 
 ## Open and run in NetBeans
